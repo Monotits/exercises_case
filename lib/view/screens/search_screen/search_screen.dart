@@ -219,7 +219,6 @@ class _SearchScreenState extends State<SearchScreen> {
                 children: [
                   const SizedBox.shrink(),
                   FilterButtonWidget(
-                    searchController: searchController,
                     title: 'Apply',
                     onPress: () {
                       searchController.getSearchExercises();
@@ -227,7 +226,6 @@ class _SearchScreenState extends State<SearchScreen> {
                     },
                   ),
                   FilterButtonWidget(
-                    searchController: searchController,
                     title: 'Clear',
                     onPress: () {
                       searchController.muscleValue.value = 'Choose Muscle';

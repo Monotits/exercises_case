@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 
 import '../../../controllers/search_controller.dart';
 import '../../../core/constants/app_colors.dart';
@@ -8,12 +7,10 @@ import '../../../core/constants/app_textstyle.dart';
 class FilterButtonWidget extends StatelessWidget {
   const FilterButtonWidget({
     Key? key,
-    required this.searchController,
     required this.title,
     required this.onPress,
   }) : super(key: key);
 
-  final SearchController searchController;
   final String title;
   final VoidCallback onPress;
 
