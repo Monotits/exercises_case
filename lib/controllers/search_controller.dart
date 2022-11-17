@@ -5,8 +5,9 @@ import 'package:get/get.dart';
 import '../models/exercises/exercises.dart';
 
 class SearchController extends GetxController {
-  SearchController() {
-    //* Get random exercises data on start app.
+  @override
+  void onInit() {
+    super.onInit();
     getRandomExercises();
   }
 
