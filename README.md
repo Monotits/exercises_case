@@ -4,7 +4,7 @@ Exercises App, flutter ile yazılmıştır. Rapid Api üzerinden gelen verilerde
 
 
 
-<img src="exercises_case/readme_images/Screen_1.png" alt="drawing" height="300"/> <img src="exercises_case/readme_images/Screen_2.png" alt="drawing" height="300"/> <img src="exercises_case/readme_images/Screen_3.png" alt="drawing" height="300"/> <img src="exercises_case/readme_images/Screen_4.png" alt="drawing" height="300"/>
+<img src="readme_images/Screen_1.png" alt="drawing" height="300"/> <img src="readme_images/Screen_2.png" alt="drawing" height="300"/> <img src="readme_images/Screen_3.png" alt="drawing" height="300"/> <img src="readme_images/Screen_4.png" alt="drawing" height="300"/>
 
 # Library | Use
  flutter_dotenv: ^5.0.2
