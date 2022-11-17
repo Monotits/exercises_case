@@ -1,17 +1,15 @@
-# assistanapp
+# Exercises Case App
 
-A new Flutter project.
+Exercises App, flutter ile yazılmıştır. Rapid Api üzerinden gelen verilerde, ekzersiz arama ve filtreme özellikleri bulunmaktadır. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="readme_images/Screen_1.png" alt="drawing" height="300"/> <img src="readme_images/Screen_2.png" alt="drawing" height="300"/> <img src="readme_images/Screen_3.png" alt="drawing" height="300"/> <img src="readme_images/Screen_4.png" alt="drawing" height="300"/> <img src="readme_images/Screen_5.png" alt="drawing" height="300"/>
+ 
+# Library | Use
+ flutter_dotenv: ^5.0.2
+<br />get: ^4.6.5
+<br />http: ^0.13.5
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-> Assistanapp
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# exercises_case
