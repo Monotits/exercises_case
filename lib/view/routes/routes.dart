@@ -9,7 +9,7 @@ mixin Routes {
   static List<GetPage> routesList = [
     GetPage(
       name: '/searchScreen',
-      page: () => const SearchScreen(),
+      page: () => SearchScreen(),
       binding: BindingsBuilder(() => {Get.put(SearchController())}),
     ),
   ];

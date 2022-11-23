@@ -8,14 +8,9 @@ import 'package:get/get.dart';
 import '../../../core/constants/app_radius.dart';
 import '../../widgets/buttons/filter_buttons.dart';
 
-class SearchScreen extends StatefulWidget {
-  const SearchScreen({super.key});
+class SearchScreen extends StatelessWidget {
+  SearchScreen({super.key});
 
-  @override
-  State<SearchScreen> createState() => _SearchScreenState();
-}
-
-class _SearchScreenState extends State<SearchScreen> {
   //* Find Search Controller
   SearchController searchController = Get.find();
 
