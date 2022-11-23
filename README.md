@@ -1,6 +1,6 @@
 # Exercises Case App
 
-Exercises App, flutter ile yazılmıştır. Rapid Api üzerinden gelen verilerde, ekzersiz arama ve filtreme özellikleri bulunmaktadır. 
+Exercises App, flutter ile yazılmıştır. Rapid Api üzerinden gelen verilerde, ekzersiz arama ve filtreleme özellikleri bulunmaktadır. 
 
 
 
